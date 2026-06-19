@@ -2,7 +2,7 @@
   <footer class="border-t border-white/10 py-8 px-6">
     <div class="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
       <p class="text-gray-500 text-sm font-mono">
-        © 2026 Luis Cadete · Built with Vue 3 + Three.js
+        © 2026 Luis Cadete
       </p>
       <div class="flex items-center gap-4">
         <a href="https://github.com/LuisCadetePXL" target="_blank" class="text-gray-500 hover:text-white transition-colors">

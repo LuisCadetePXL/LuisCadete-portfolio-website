@@ -27,7 +27,7 @@
             </div>
           </div>
           <div>
-            <p class="text-white font-medium mb-1">Hey, I'm Luis — or at least a version of me.</p>
+            <p class="text-white font-medium mb-1">Hey, I'm Luis, or at least a version of me.</p>
             <p class="text-gray-500 text-sm">Ask me about my projects, skills, or background.</p>
           </div>
           <!-- Suggestion chips -->
@@ -109,9 +109,6 @@
         </button>
       </div>
 
-      <p class="text-gray-700 text-xs text-center mt-3">
-        Powered by DeepSeek. Only knows about Luis and his work.
-      </p>
     </div>
   </div>
 </template>
