@@ -35,7 +35,7 @@
           </div>
 
           <a
-            href="/LUIS_CADETE_CV.pdf"
+            href="/Luis_Cadete_CV.pdf"
             download="Luis_Cadete_CV.pdf"
             class="flex items-center gap-4 card-glass p-5 hover:border-cyan-400/30 hover:bg-white/8 transition-all group"
           >

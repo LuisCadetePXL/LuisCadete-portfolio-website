@@ -45,7 +45,7 @@
             Get in Touch
           </RouterLink>
           <a
-            href="/LUIS_CADETE_CV.pdf"
+            href="/Luis_Cadete_CV.pdf"
             download="Luis_Cadete_CV.pdf"
             class="inline-flex items-center gap-2 px-6 py-3 border border-cyan-400/30 rounded-lg font-semibold text-cyan-400 hover:bg-cyan-400/10 hover:border-cyan-400/60 transition-all"
           >
