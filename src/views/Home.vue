@@ -91,10 +91,10 @@
         </div>
 
         <!-- Profile photo placeholder -->
-        <div class="flex flex-col items-center gap-4">
+        <div class="flex flex-col items-center gap-10 py-100">
           <div class="relative">
             <div class="w-56 h-56 rounded-2xl overflow-hidden">
-              <img src="/images/photo_of_luis.jpg" alt="Luis Cadete" class="w-full h-full object-cover" />
+              <img src="/images/photo_of_luis.jpg" alt="Luis Cadete" class="w-full h-full object-cover mt-0" />
             </div>
             <!-- Decorative glow ring -->
             <div class="absolute -inset-1 rounded-2xl bg-gradient-to-br from-cyan-400/10 to-violet-500/10 blur-md -z-10" />
